@@ -1,5 +1,7 @@
 # Bienvenidos a las Olimpiadas Virtuales de la familia foca 2022
 
+![](images/sellofamiliafoca.jpg)
+
 ##Escoge la Puerta correcta para revelar el premio:
 
 ###Puerta #1
@@ -15,5 +17,6 @@
 
 
 Patrocina:
+
 ![](images/Rompiñones.png)
 
