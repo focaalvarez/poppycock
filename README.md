@@ -13,7 +13,7 @@
 [![](images/Puerta2.jpg)](https://www.youtube.com/watch?v=sMmjSE_d6J0)
 
 ##Puerta #3
-[![](images/Puerta2.jpg)](https://www.jigsawplanet.com/?rc=play&pid=29816d82beb2)
+[![](images/Puerta3.jpg)](https://www.jigsawplanet.com/?rc=play&pid=29816d82beb2)
 
 
 
