@@ -2,7 +2,7 @@
 
 
 ## *Encuentra el código detrás de la puerta correcta para revelar una sorpresa:*
-*Find the code behind the correct door to reveal a surprise*
+*(Find the code behind the correct door to reveal a surprise)*
 
 
 ### Puerta 1:
