@@ -1,5 +1,5 @@
 # poppycock
-[![](qr_poppycock.png)]('www.google.com')
+[![](qr_poppycock.png)](https://www.google.com/)
 
 
 
