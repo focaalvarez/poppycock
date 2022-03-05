@@ -1,5 +1,5 @@
 # poppycock
-[![](images/qr_poppycock.png)](https://www.google.com/)
+[![](images/Puerta1.jpg)](https://www.google.com/)
 
 
 
