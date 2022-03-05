@@ -1,10 +1,22 @@
 # Bienvenidos a las Olimpiadas Virtuales de la familia foca 2022
 
-Escoge la Puerta correcta para revelar el premio:
-![image](https://user-images.githubusercontent.com/47828188/156879663-933d7271-3e79-445c-9341-097befaea769.png)
+![](images/sello familia foca.jpg)
+
+*Escoge la Puerta correcta para revelar el premio:*
 
 
-[![](images/Puerta1.jpg)](https://www.google.com/)
+##Puerta #1
+[![](images/Puerta1.jpg)](http://chickenonaraft.com/)
 
 
+##Puerta #2
+[![](images/Puerta2.jpg)](https://www.youtube.com/watch?v=sMmjSE_d6J0)
+
+##Puerta #3
+[![](images/Puerta2.jpg)](https://www.jigsawplanet.com/?rc=play&pid=29816d82beb2)
+
+
+
+Patrocina:
+![](images/Rompiñones.png.jpg)
 
