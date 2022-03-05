@@ -1,4 +1,4 @@
-# Bienvenidos a las Olimpiadas Virtuales de la familia foca 2022
+# Bienvenidos a las olimpiadas virtuales de la Familia Foca 2022
 
 
 ## *Encuentra el código detras de la puerta correcta para revelar la sorpresa:*
