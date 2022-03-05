@@ -15,7 +15,7 @@
 
 ### Puerta #3
 
-[![](images/Puerta3.jpg)](https://www.jigsawplanet.com/?rc=play&pid=29816d82beb2)
+[![](images/Puerta3.jpg)](https://www.jigsawplanet.com/?rc=play&pid=338df8ee5090)
 
 
 
