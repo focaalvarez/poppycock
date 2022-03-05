@@ -12,11 +12,11 @@
 
 ### Puerta #2
 
-[![](images/Puerta2.jpg)](https://www.youtube.com/watch?v=sMmjSE_d6J0)
+[![](images/Puerta2.jpg)](https://www.jigsawplanet.com/?rc=play&pid=338df8ee5090)
 
 ### Puerta #3
 
-[![](images/Puerta3.jpg)](https://www.jigsawplanet.com/?rc=play&pid=338df8ee5090)
+[![](images/Puerta3.jpg)](https://www.youtube.com/watch?v=sMmjSE_d6J0)
 
 
 
