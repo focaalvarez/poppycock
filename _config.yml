@@ -16,3 +16,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-slate
+
+name: ""
+title: null
