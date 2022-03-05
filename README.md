@@ -1,7 +1,8 @@
 # Bienvenidos a las Olimpiadas Virtuales de la familia foca 2022
 
 
-## *Escoge la Puerta correcta para revelar el premio:*
+## *Encuentra el código detras de la puerta correcta para revelar la sorpresa:*
+
 
 ### Puerta 1:
 
