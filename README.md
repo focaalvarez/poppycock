@@ -12,7 +12,7 @@
 
 ### Puerta #2
 
-[![](images/Puerta2.jpg)](https://www.jigsawplanet.com/?rc=play&pid=338df8ee5090)
+[![](images/Puerta2.jpg)](https://www.jigsawplanet.com/?rc=play&pid=144dd9e00664)
 
 ### Puerta #3
 
